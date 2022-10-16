@@ -16,7 +16,7 @@ class A extends Thread{
 class Sleep_Method{
     public static void main(String[] args) throws InterruptedException{
         A t1 = new A();
-        t1.run();
+        t1.start();
         
         for(int i=0; i<5; i++){
             System.out.println("Surjo");
