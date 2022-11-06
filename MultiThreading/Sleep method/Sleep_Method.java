@@ -8,9 +8,7 @@ class A extends Thread{
             }
         }
         catch(InterruptedException i){
-
         }
-        
     }
 }
 class Sleep_Method{

@@ -1,6 +1,5 @@
 class this_key {
     int a;    
-    
     this_key(int a) {
         this.a = a;
     }
