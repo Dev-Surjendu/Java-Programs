@@ -19,7 +19,7 @@ class Finally_Demo{
         catch(Exception e){
             System.out.println("error");
         }*/
-        finally{ // if we get error or not , it will always execute
+        finally{ // if we get error or not , it will be always execute
             System.out.println("Byee");
         }
     }
