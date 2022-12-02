@@ -1,4 +1,3 @@
-
 class endsWith{
     public static void main(String args[]) {
         

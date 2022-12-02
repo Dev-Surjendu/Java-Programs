@@ -1,4 +1,3 @@
-
 class startsWith{
     public static void main(String args[]) {
         

@@ -1,7 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
-import javax.sql.rowset.spi.SyncResolver;
-import javax.swing.plaf.synth.SynthScrollBarUI;
-
 class Parent{
     int a=10;
 }
